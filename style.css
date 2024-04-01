@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #007bff;
+    color: #fff;
+    display: flex;
+    text-align: center;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: center;
+}
+
+#cbf {
+    right: 3rem;
+    width: 3rem;
+    margin: 2%;
+}
+
+
+h1 {
+    margin: 0;
+}
+section {
+    padding: 20px;
+}
+.team {
+    margin-bottom: 30px;
+}
+h2 {
+    color: #000000;
+}
+p {
+    margin: 5px 0;
+}
+
+.team1, .team2, .team3, .team4 {
+    background-color:rgb(247, 247, 247);
+    border-radius: 0.5rem;
+    border-style: hidden;
+    border-color: rgb(100, 100, 100);
+    padding: 2%;
+    margin: 2%;
+}
+
+.name1,.name2,.name3,.name4 {
+    display: flex;
+    align-items: center;
+}
+
+#image1,#image2,#image3,#image4 {
+    right: 1.8rem;
+    width: 1.8rem;
+    margin: 2%;
+}
